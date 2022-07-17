@@ -1,0 +1,1 @@
+This program allows you to handle business cards and make calls to business partners.
